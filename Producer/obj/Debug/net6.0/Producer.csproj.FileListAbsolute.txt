@@ -1,0 +1,17 @@
+/home/eckart/dev/RabbitMQ/Producer/obj/Debug/net6.0/Producer.csproj.AssemblyReference.cache
+/home/eckart/dev/RabbitMQ/Producer/obj/Debug/net6.0/Producer.GeneratedMSBuildEditorConfig.editorconfig
+/home/eckart/dev/RabbitMQ/Producer/obj/Debug/net6.0/Producer.AssemblyInfoInputs.cache
+/home/eckart/dev/RabbitMQ/Producer/obj/Debug/net6.0/Producer.AssemblyInfo.cs
+/home/eckart/dev/RabbitMQ/Producer/obj/Debug/net6.0/Producer.csproj.CoreCompileInputs.cache
+/home/eckart/dev/RabbitMQ/Producer/bin/Debug/net6.0/Producer
+/home/eckart/dev/RabbitMQ/Producer/bin/Debug/net6.0/Producer.deps.json
+/home/eckart/dev/RabbitMQ/Producer/bin/Debug/net6.0/Producer.runtimeconfig.json
+/home/eckart/dev/RabbitMQ/Producer/bin/Debug/net6.0/Producer.dll
+/home/eckart/dev/RabbitMQ/Producer/bin/Debug/net6.0/Producer.pdb
+/home/eckart/dev/RabbitMQ/Producer/bin/Debug/net6.0/RabbitMQ.Client.dll
+/home/eckart/dev/RabbitMQ/Producer/obj/Debug/net6.0/Producer.csproj.CopyComplete
+/home/eckart/dev/RabbitMQ/Producer/obj/Debug/net6.0/Producer.dll
+/home/eckart/dev/RabbitMQ/Producer/obj/Debug/net6.0/refint/Producer.dll
+/home/eckart/dev/RabbitMQ/Producer/obj/Debug/net6.0/Producer.pdb
+/home/eckart/dev/RabbitMQ/Producer/obj/Debug/net6.0/Producer.genruntimeconfig.cache
+/home/eckart/dev/RabbitMQ/Producer/obj/Debug/net6.0/ref/Producer.dll
