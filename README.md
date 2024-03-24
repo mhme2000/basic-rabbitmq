@@ -30,7 +30,7 @@ Rabbit MQ Client no Csharp. Projeto voltado para aprendizado da ferramenta rabbi
 ## 💻 Como executar
 
 - Pré requisitos
-  - SDK .NET 6.0;
+  - SDK .NET 8.0;
   - Servidor rabbitmq instalado, para saber mais acesse o [site oficial](https://www.rabbitmq.com/admin-guide.html).
 
 - Clone o projeto com: `git clone https://github.com/mhme2000/basic-rabbitmq.git`
